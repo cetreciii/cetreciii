@@ -4,8 +4,8 @@ I like building things from scratch to shipped products and learning as much as 
 Then I like to give back to the community by sharing my learnings.
 
 I work mainly with **Swift** for iOS apps and visionOS apps.
-When I find something interesting, I write about it.
 
+When I find something interesting, I write about it.
 Here you'll find a mix of experiments, open source projects and learning projects that you can clone and test!
 
 ---
