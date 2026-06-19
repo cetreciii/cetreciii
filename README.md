@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Igor 👋
 
-<!--
-**cetreciii/cetreciii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Learn. Improve. Empower.
 
-Here are some ideas to get you started:
+I like building things from scratch to shipped products and learning as much as possible while I do it!  
+Then I like to give back to the community by sharing my learnings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work mainly with **Swift** for iOS apps and visionOS apps.
+When I find something interesting, I write about it.
+
+Here you'll find a mix of experiments, open source projects and learning projects that you can clone and test!
+
+---
+
+### 🔗 Find me elsewhere
+
+- 🌐 Portfolio → [cetreciii.github.io/portfolio](https://cetreciii.github.io/portfolio)
+- 📝 Medium → [medium.com/@your-handle](https://medium.com/@igor.tarantino)
+- 💼 LinkedIn → [linkedin.com/in/your-handle](https://linkedin.com/in/igor-tarantino)
