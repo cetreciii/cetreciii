@@ -1,7 +1,5 @@
 # Hey, I'm Igor 👋
 
-> Learn. Improve. Empower.
-
 I like building things from scratch to shipped products and learning as much as possible while I do it!  
 Then I like to give back to the community by sharing my learnings.
 
