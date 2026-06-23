@@ -14,8 +14,8 @@ Here you'll find a mix of experiments, open source projects and learning project
 
 ---
 
-🌐 Portfolio → [cetreciii.github.io/portfolio](https://cetreciii.github.io/portfolio)
+🔴 [Portfolio](https://cetreciii.github.io/portfolio)
 
-📝 Medium → [medium.com/@igor.tarantino](https://medium.com/@igor.tarantino)
+📝 [Medium articles](https://medium.com/@igor.tarantino)
 
-💼 LinkedIn → [linkedin.com/in/igor-tarantino](https://linkedin.com/in/igor-tarantino)
+💼 [LinkedIn](https://linkedin.com/in/igor-tarantino)
